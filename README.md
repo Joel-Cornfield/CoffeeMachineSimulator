@@ -7,7 +7,7 @@ Check out my hyperskill profile: https://hyperskill.org/profile/604344431
 
 ## How to Run
 
-To run the Cinema Room Manager project, follow these steps:
+To run the Coffee Machine Simulator project, follow these steps:
 
 1. **Download the JAR file**:
    - You can download the JAR file directly from the project's GitHub repository.
@@ -18,8 +18,8 @@ To run the Cinema Room Manager project, follow these steps:
 3. **Run the JAR file**:
    - Execute the following command:
      ```
-     java -jar CinemaRoomManager.jar
+     java -jar CoffeeMachineManager.jar
      ```
 
 4. **Follow the on-screen instructions**:
-   - Once the program is running, follow the prompts to play the game 
+   - Once the program is running, follow the prompts to simulate the coffee machine
