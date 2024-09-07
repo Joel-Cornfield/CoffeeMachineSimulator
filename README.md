@@ -1,7 +1,7 @@
 # CoffeeMachineSimulator
 This is my *Coffee Machine Simulator*
 
-You can find the original project description and tasks on [Hyperskill](https://hyperskill.org/projects/133).
+You can find the original project description and tasks on [Hyperskill](https://hyperskill.org/projects/33).
 
 Check out my hyperskill profile: https://hyperskill.org/profile/604344431
 
